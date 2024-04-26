@@ -1,0 +1,132 @@
+<section class="furniture_section layout_padding">
+    <div class="container">
+      <div class="heading_container">
+        <h2>
+          Our Furniture
+        </h2>
+      
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-lg-4">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/f1.png" alt="">
+            </div>
+            <div class="detail-box">
+              <h5>
+                brown Chair Design
+              </h5>
+              <div class="price_box">
+                <h6 class="price_heading">
+                  <span>$</span> 100.00
+                </h6>
+                <a href="">
+                  Buy Now
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/f2.png" alt="">
+            </div>
+            <div class="detail-box">
+              <h5>
+                Double Bed Design
+              </h5>
+              <div class="price_box">
+                <h6 class="price_heading">
+                  <span>$</span> 200.00
+                </h6>
+                <a href="">
+                  Buy Now
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/f3.png" alt="">
+            </div>
+            <div class="detail-box">
+              <h5>
+                House Chair Design
+              </h5>
+              <div class="price_box">
+                <h6 class="price_heading">
+                  <span>$</span> 200.00
+                </h6>
+                <a href="">
+                  Buy Now
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/f4.png" alt="">
+            </div>
+            <div class="detail-box">
+              <h5>
+                brown Table Design
+              </h5>
+              <div class="price_box">
+                <h6 class="price_heading">
+                  <span>$</span> 100.00
+                </h6>
+                <a href="">
+                  Buy Now
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/f5.png" alt="">
+            </div>
+            <div class="detail-box">
+              <h5>
+                Blue Chair Design
+              </h5>
+              <div class="price_box">
+                <h6 class="price_heading">
+                  <span>$</span> 200.00
+                </h6>
+                <a href="">
+                  Buy Now
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/f6.png" alt="">
+            </div>
+            <div class="detail-box">
+              <h5>
+                Brown Table Design
+              </h5>
+              <div class="price_box">
+                <h6 class="price_heading">
+                  <span>$</span> 200.00
+                </h6>
+                <a href="">
+                  Buy Now
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
